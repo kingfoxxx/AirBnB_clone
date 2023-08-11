@@ -1,1 +1,3 @@
 AirBnB clone - The console This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
+Previously we created a method to generate a dictionary representation of an instance (method to_dict()).
+Now it’s time to re-create an instance with this dictionary representation.
